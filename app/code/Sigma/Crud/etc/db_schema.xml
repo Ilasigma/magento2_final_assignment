@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Setup/Declaration/Schema/etc/schema.xsd">
+
+    <table name="sigma_form" resource="default" engine="innodb" comment="">
+        <column xsi:type="int" name="id" unsigned="true" nullable="false" identity="true"
+                comment="Entity ID"/>
+        <column xsi:type="varchar" name="firstname" nullable="true" length="255" comment="FirstName"/>
+        <column xsi:type="varchar" name="lastname" nullable="true" length="255" comment="LastName"/>
+		<column xsi:type="varchar" name="email" nullable="true" length="255" comment="Email"/>
+        <column xsi:type="varchar" name="gender" nullable="true" length="255" comment="Gender"/>
+		<column xsi:type="varchar" name="phone" nullable="true" length="255" comment="Phone number"/>
+        <column xsi:type="text" name="comment" nullable="true" comment="Commment"/>
+        <column xsi:type="varchar" name="status" nullable="true" length="255" comment="Status"/>
+
+        <constraint xsi:type="primary" referenceId="PRIMARY">
+            <column name="id"/>
+        </constraint>
+        <index referenceId="SIGMA_CRUD_FORM_IDENTIFIER_CONTENT" indexType="fulltext">
+            <column name="firstname"/>
+            <column name="lastname"/>
+            <column name="email"/>
+            <column name="phone"/>
+            <column name="comment"/>
+        </index>
+    </table>
+</schema>

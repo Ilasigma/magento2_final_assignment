@@ -1,0 +1,25 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+/** @var $block \Magento\Catalog\Block\Product\AbstractProduct */
+
+
+   $_product = $block->getProduct();
+   $dynamic_price_value = $_product->getResource()->getAttribute('dynamic_price_value')->getFrontend()->getValue($_product);
+   $clothing_material = $_product->getResource()->getAttribute('clothing_material')->getFrontend()->getValue($_product);
+?>
+       <div><strong>Dynamic Price:</strong>
+             <?php echo ($dynamic_price_value) ? $dynamic_price_value : '--'; ?>
+       </div>
+
+       <div><strong>Custom Material:</strong>
+             <?php echo ($clothing_material) ? $clothing_material : '--'; ?>
+       </div>
+
+<?php
+
+   $block->getReviewsSummaryHtml($block->getProduct(), false, true)
+
+?>

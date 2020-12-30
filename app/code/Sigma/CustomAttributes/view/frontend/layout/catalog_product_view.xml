@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<page layout="1column" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="content">
+            <block class="Magento\Catalog\Block\Product\View" name="product.info.review"
+                   template="Sigma_CustomAttributes::product/view/review.phtml" after="product.info.stock.sku"/>
+
+            <!--<referenceBlock name="product.info.sku">-->
+            <!--<arguments>-->
+            <!--<argument name="template" xsi:type="string">Sigma_CustomAttributes::product/view/demo.phtml</argument>-->
+            <!--</arguments>-->
+            <!--</referenceBlock>-->
+        </referenceContainer>
+
+
+        <!--<block class="Magento\Catalog\Block\Product\View\Description" name="product.info.demo" template="product/view/demo.phtml" after="-">-->
+        <!--<arguments>-->
+        <!--<argument name="at_call" xsi:type="string">getDemoLink</argument>-->
+        <!--<argument name="at_code" xsi:type="string">demo_link</argument>-->
+        <!--<argument name="css_class" xsi:type="string">demo_link</argument>-->
+        <!--<argument name="at_label" xsi:type="string">Demo Link</argument>-->
+        <!--<argument name="add_attribute" xsi:type="string">itemprop="demo_link"</argument>-->
+        <!--</arguments>-->
+        <!--</block>-->
+
+    </body>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Sigma_Crud::contact" title="Customform" translate="title" module="Sigma_Crud" sortOrder="20"
+             resource="Sigma_Crud::contact"/>
+
+        <add id="Sigma_Crud::contactlist" title="Customform" translate="title" module="Sigma_Crud" sortOrder="0"
+             parent="Sigma_Crud::contact" action="customform/index" resource="Sigma_Crud::form"/>
+       <!-- <add id="Sigma_Crud::edit" title="Customform Edit" translate="title" module="Sigma_Crud" sortOrder="0"
+             parent="Sigma_Crud::contact" action="Customform/index/edit" resource="Sigma_Crud::edit"/>-->
+
+    </menu>
+</config>
