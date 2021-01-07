@@ -1,0 +1,86 @@
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomAttributes/Setup/Patch/Data/AddClothingMaterialAttribute.php
+-------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+-------------------------------------------------------------------------------------------------------------
+ 48 | WARNING | [ ] Use ::class notation instead.
+ 49 | WARNING | [ ] Use ::class notation instead.
+ 75 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomAttributes/Setup/Patch/Data/AddDynamicPriceValueAttribute.php
+--------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------------------------
+ 73 | WARNING | [x] Expected 1 newline at end of file; 0 found
+--------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomAttributes/Ui/DataProvider/Product/Form/Modifier/Attributes.php
+----------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------------------------------------
+ 51 | WARNING | [x] Expected 1 newline at end of file; 0 found
+----------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomAttributes/view/frontend/templates/product/list.phtml
+------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 19 WARNINGS AFFECTING 13 LINES
+------------------------------------------------------------------------------------------------------
+  58 | WARNING | [x] Line indented incorrectly; expected at least 28 spaces, found 25
+  60 | WARNING | [x] Line indented incorrectly; expected at least 28 spaces, found 25
+  94 | WARNING | [x] Line indented incorrectly; expected at least 28 spaces, found 16
+  94 | WARNING | [ ] Line exceeds 120 characters; contains 137 characters
+  95 | WARNING | [x] Line indented incorrectly; expected at least 28 spaces, found 16
+  95 | WARNING | [ ] Line exceeds 120 characters; contains 133 characters
+  99 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+  99 | WARNING | [x] Expected 1 space(s) after closing parenthesis; found 0
+ 101 | WARNING | [ ] Short echo tag syntax must be used; expected "<?=" but found "<?php echo"
+ 101 | WARNING | [ ] Unescaped output detected.
+ 104 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+ 104 | WARNING | [x] Expected 1 space(s) after closing parenthesis; found 0
+ 106 | WARNING | [ ] Short echo tag syntax must be used; expected "<?=" but found "<?php echo"
+ 106 | WARNING | [ ] Unescaped output detected.
+ 129 | WARNING | [x] Line indented incorrectly; expected at least 56 spaces, found 55
+ 132 | WARNING | [x] Line indented incorrectly; expected at least 56 spaces, found 55
+ 135 | WARNING | [x] Line indented incorrectly; expected at least 56 spaces, found 55
+ 136 | WARNING | [x] Line indented incorrectly; expected 56 spaces, found 55
+ 182 | WARNING | [x] Line indented incorrectly; expected at least 44 spaces, found 43
+------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 13 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomAttributes/view/frontend/templates/product/view/review.phtml
+-------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 3 LINES
+-------------------------------------------------------------------------------------------------------------
+ 10 | WARNING | Line exceeds 120 characters; contains 124 characters
+ 14 | WARNING | Short echo tag syntax must be used; expected "<?=" but found "<?php echo"
+ 14 | WARNING | Unescaped output detected.
+ 18 | WARNING | Short echo tag syntax must be used; expected "<?=" but found "<?php echo"
+ 18 | WARNING | Unescaped output detected.
+-------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomAttributes/Observer/AddCustomOption.php
+----------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 2 LINES
+----------------------------------------------------------------------------------------
+ 22 | WARNING | [ ] Expected "if (...) {\n"; found "if (...){\n"
+ 22 | WARNING | [x] Space before opening parenthesis of function call prohibited
+ 22 | WARNING | [x] Expected 1 space(s) after closing parenthesis; found 0
+ 23 | WARNING | [x] Closing brace must be on a line by itself
+----------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------
+
+

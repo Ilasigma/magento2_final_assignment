@@ -1,0 +1,131 @@
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/Helper/Data.php
+-----------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 6 WARNINGS AFFECTING 2 LINES
+-----------------------------------------------------------------------------------------------------------------------------
+ 42 | WARNING | [x] Incorrect spacing between argument "$fieldset" and equals sign; expected 1 but found 0
+ 42 | WARNING | [x] Incorrect spacing between default value and equals sign for argument "$fieldset"; expected 1 but found 0
+ 42 | WARNING | [x] Incorrect spacing between argument "$root" and equals sign; expected 1 but found 0
+ 42 | WARNING | [x] Incorrect spacing between default value and equals sign for argument "$root"; expected 1 but found 0
+ 66 | WARNING | [x] Incorrect spacing between argument "$fieldset" and equals sign; expected 1 but found 0
+ 66 | WARNING | [x] Incorrect spacing between default value and equals sign for argument "$fieldset"; expected 1 but found 0
+-----------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 6 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/registration.php
+------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------
+ 1 | WARNING | [x] End of line character is invalid; expected "\n" but found "\r\n"
+------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/Block/Checkout/LayoutProcessor.php
+---------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 4 LINES
+---------------------------------------------------------------------------------------------------------------------------------
+  63 | WARNING | [x] Incorrect spacing between argument "$addressType" and equals sign; expected 1 but found 0
+  63 | WARNING | [x] Incorrect spacing between default value and equals sign for argument "$addressType"; expected 1 but found 0
+ 118 | WARNING | [ ] Line exceeds 120 characters; contains 207 characters
+ 126 | WARNING | [ ] Line exceeds 120 characters; contains 131 characters
+ 132 | WARNING | [ ] Line exceeds 120 characters; contains 132 characters
+---------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/Setup/Patch/Data/AddressAttribute.php
+-----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+-----------------------------------------------------------------------------------------------------------------------
+ 12 | WARNING | [ ] Class description must contain meaningful information beyond what its name provides or be removed.
+ 63 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 85 | WARNING | [x] Empty lines are not allowed in multi-line function calls
+ 97 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-----------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/Setup/InstallSchema.php
+----------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+----------------------------------------------------------------------------------
+ 57 | WARNING | [x] Expected 1 newline at end of file; 0 found
+----------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/view/frontend/templates/address/edit.phtml
+-----------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 14 WARNINGS AFFECTING 12 LINES
+-----------------------------------------------------------------------------------------------------
+  63 | WARNING | [ ] Short echo tag syntax must be used; expected "<?=" but found "<?php echo"
+  66 | WARNING | [ ] Unescaped output detected.
+  66 | WARNING | [ ] Line exceeds 120 characters; contains 176 characters
+  67 | WARNING | [ ] Short echo tag syntax must be used; expected "<?=" but found "<?php echo"
+  67 | WARNING | [ ] Unescaped output detected.
+  85 | WARNING | [x] Line indented incorrectly; expected at least 24 spaces, found 23
+ 100 | WARNING | [x] Line indented incorrectly; expected at least 40 spaces, found 39
+ 121 | WARNING | [x] Line indented incorrectly; expected at least 28 spaces, found 27
+ 155 | WARNING | [x] Line indented incorrectly; expected at least 24 spaces, found 23
+ 185 | WARNING | [x] Line indented incorrectly; expected at least 24 spaces, found 23
+ 247 | WARNING | [x] Line indented incorrectly; expected at least 16 spaces, found 4
+ 253 | WARNING | [x] Line indented incorrectly; expected at least 16 spaces, found 4
+ 259 | WARNING | [x] Line indented incorrectly; expected at least 16 spaces, found 4
+ 262 | WARNING | [x] Line indented incorrectly; expected at least 16 spaces, found 4
+-----------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 9 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/view/frontend/web/js/action/set-billing-address-mixin.js
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+ 25 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+ 25 | WARNING | [x] Expected 1 space(s) after closing parenthesis; found 0
+-------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/view/frontend/web/js/action/set-shipping-information-mixin.js
+------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 3 LINES
+------------------------------------------------------------------------------------------------------------------------
+ 18 | WARNING | [x] Expected 1 space after FUNCTION keyword; 0 found
+ 20 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+ 23 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+ 23 | WARNING | [x] Expected 1 space(s) after closing parenthesis; found 0
+------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 4 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/view/frontend/web/js/action/create-shipping-address-mixin.js
+-----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-----------------------------------------------------------------------------------------------------------------------
+ 12 | WARNING | [x] Expected 1 space after FUNCTION keyword; 0 found
+-----------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CustomerAddress/view/frontend/requirejs-config.js
+--------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+--------------------------------------------------------------------------------------------
+ 1 | WARNING | [x] End of line character is invalid; expected "\n" but found "\r\n"
+--------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------
+
+

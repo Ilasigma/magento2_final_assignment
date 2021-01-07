@@ -1,0 +1,268 @@
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/PostDataProcessor.php
+------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------------------
+ 40 | WARNING | Code must not contain multiple empty lines in a row; found 3 empty lines.
+------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/Edit.php
+-----------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-----------------------------------------------------------------------------------
+ 74 | WARNING | Use ::class notation instead.
+ 94 | WARNING | Use ::class notation instead.
+-----------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/MassDelete.php
+-----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-----------------------------------------------------------------------------------------------
+  21 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 107 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/Save.php
+------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+------------------------------------------------------------------------------------------
+ 81 | WARNING | Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 84 | WARNING | Use ::class notation instead.
+ 89 | WARNING | Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 92 | WARNING | Code must not contain multiple empty lines in a row; found 2 empty lines.
+------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/Delete.php
+-------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------
+ 34 | WARNING | Use ::class notation instead.
+-------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/InlineEdit.php
+-------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------
+ 40 | WARNING | Use ::class notation instead.
+ 42 | WARNING | array_merge(...) is used in a loop and is a resources greedy construction.
+-------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Adminhtml/Index/MassStatus.php
+------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------------
+ 58 | WARNING | Code must not contain multiple empty lines in a row; found 2 empty lines.
+------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Index/Post.php
+-----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 4 LINES
+-----------------------------------------------------------------------------------------------
+  18 | WARNING | [x] There must be one blank line after the last USE statement; 0 found;
+  30 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+  92 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 115 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 115 | WARNING | [x] The closing brace for the class must go on the next line after the body
+-----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Controller/Index/Index.php
+-------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+-------------------------------------------------------------------------------------------------------------------------
+  1 | WARNING | [x] End of line character is invalid; expected "\n" but found "\r\n"
+ 25 | WARNING | [x] Function closing brace must go on the next line following the body; found 1 blank lines before brace
+ 26 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/registration.php
+------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------
+ 1 | WARNING | [x] End of line character is invalid; expected "\n" but found "\r\n"
+------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/CustomForm.php
+---------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+---------------------------------------------------------------------------------------
+ 5 | WARNING | [x] There must be one blank line after the last USE statement; 0 found;
+---------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+---------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/Adminhtml/Button/GenericButton.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 12 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/Adminhtml/Button/SaveAndContinueButton.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/Adminhtml/Button/DeleteButton.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/Adminhtml/Button/BackButton.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/Adminhtml/Button/SaveButton.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 2 WARNINGS AFFECTING 2 LINES
+-------------------------------------------------------------------------------------------------------------------
+ 12 | WARNING | Tag @package MUST NOT be used.
+ 14 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Block/Adminhtml/Button/ResetButton.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/ResourceModel/Form.php
+--------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------------------
+  2 | WARNING | [x] There must be one blank line after the namespace declaration
+ 17 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 17 | WARNING | [x] The closing brace for the class must go on the next line after the body
+--------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/ResourceModel/Form/Grid/Collection.php
+----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 4 LINES
+----------------------------------------------------------------------------------------------
+  7 | WARNING | [x] There must be one blank line after the last USE statement; 2 found;
+ 16 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 27 | WARNING | [ ] Use ::class notation instead.
+ 61 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/ResourceModel/Form/Collection.php
+------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 2 LINES
+------------------------------------------------------------------------------------------
+ 23 | WARNING | Code must not contain multiple empty lines in a row; found 3 empty lines.
+ 33 | WARNING | Use ::class notation instead.
+ 33 | WARNING | Use ::class notation instead.
+------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/ResourceModel/AbstractCollection.php
+----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+----------------------------------------------------------------------------------------------
+  9 | WARNING | [x] There must be one blank line after the namespace declaration
+ 15 | WARNING | [ ] Possible useless method overriding detected
+ 25 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 3 empty lines.
+----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/Data.php
+----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 10 WARNINGS AFFECTING 9 LINES
+----------------------------------------------------------------------------------------------
+  2 | WARNING | [x] There must be one blank line after the namespace declaration
+ 11 | WARNING | [x] Line indented incorrectly; expected 4 spaces, found 8
+ 13 | WARNING | [ ] Use ::class notation instead.
+ 14 | WARNING | [x] Line indented incorrectly; expected 4 spaces, found 8
+ 15 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 17 | WARNING | [x] Line indented incorrectly; expected 4 spaces, found 8
+ 19 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 2 empty lines.
+ 25 | WARNING | [x] Line indented incorrectly; expected 4 spaces, found 8
+ 27 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 27 | WARNING | [x] The closing brace for the class must go on the next line after the body
+----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 7 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/Source/Gender.php
+--------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------------------
+  4 | WARNING | [x] There must be one blank line after the last USE statement; 0 found;
+ 20 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 20 | WARNING | [x] The closing brace for the class must go on the next line after the body
+--------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/Source/Status.php
+--------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 2 LINES
+--------------------------------------------------------------------------------------------
+  4 | WARNING | [x] There must be one blank line after the last USE statement; 0 found;
+ 20 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 20 | WARNING | [x] The closing brace for the class must go on the next line after the body
+--------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/Data/Source/__Status.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/Crud/Model/Data/DataProvider.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+-------------------------------------------------------------------------------------------------------------------
+ 14 | WARNING | Class description must contain meaningful information beyond what its name provides or be removed.
+ 75 | WARNING | Code must not contain multiple empty lines in a row; found 3 empty lines.
+ 83 | WARNING | Code must not contain multiple empty lines in a row; found 3 empty lines.
+-------------------------------------------------------------------------------------------------------------------
+
+

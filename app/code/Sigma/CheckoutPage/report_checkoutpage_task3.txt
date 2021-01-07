@@ -1,0 +1,23 @@
+
+FILE: /var/www/html/magento/app/code/Sigma/CheckoutPage/registration.php
+------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------
+ 1 | WARNING | [x] End of line character is invalid; expected "\n" but found "\r\n"
+------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------------
+
+
+FILE: /var/www/html/magento/app/code/Sigma/CheckoutPage/Plugin/StateFilter.php
+----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 3 WARNINGS AFFECTING 3 LINES
+----------------------------------------------------------------------------------------------
+ 20 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 3 empty lines.
+ 26 | WARNING | [x] Inline control structures are not allowed
+ 33 | WARNING | [x] Expected 1 newline at end of file; 0 found
+----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------
+
+
